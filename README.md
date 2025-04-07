@@ -16,7 +16,7 @@ Usage
 - Clone the repository to your local machine.
 
 ```bash
- git clone https://github.com/yourusername/scientific-calculator.git
+ git clone https://github.com/damiherrera/scientific-calculator.git
 ```
 - Open the index.html file in a web browser to start using the calculator.
 
